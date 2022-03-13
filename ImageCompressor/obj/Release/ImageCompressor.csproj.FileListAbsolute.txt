@@ -1,0 +1,10 @@
+W:\Enkodery\ImageCompressor.exe.config
+W:\Enkodery\ImageCompressor.exe
+W:\Enkodery\ImageCompressor.pdb
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\obj\Release\ImageCompressor.csproj.AssemblyReference.cache
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\obj\Release\ImageCompressor.Form1.resources
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\obj\Release\ImageCompressor.Properties.Resources.resources
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\obj\Release\ImageCompressor.csproj.GenerateResource.cache
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\obj\Release\ImageCompressor.csproj.CoreCompileInputs.cache
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\obj\Release\ImageCompressor.exe
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\obj\Release\ImageCompressor.pdb

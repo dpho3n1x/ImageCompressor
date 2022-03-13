@@ -1,0 +1,10 @@
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.exe.config
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.exe
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\bin\Debug\ImageCompressor.pdb
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.csproj.AssemblyReference.cache
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.Form1.resources
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.Properties.Resources.resources
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.csproj.GenerateResource.cache
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.csproj.CoreCompileInputs.cache
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.exe
+W:\HomeDir\Dokumenty\ImageCompressor\ImageCompressor\ImageCompressor\obj\Debug\ImageCompressor.pdb
